@@ -4,8 +4,8 @@ SEOTitle: 君子强的博客 | Junziqiang Blog
 header-img: img/home-bg.jpg
 email: 543763862@qq.com
 description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "君子强, C++"
-url: "https://junziqiang.github.io"              # your host, for absolute URL
+keyword: "君子强,C++,后端"
+url: "https://junziqiang.girhub.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -101,36 +101,36 @@ page-mathjax: false
 
 
 # Friends
-friends: [
-    {
+#friends: [
+    #{
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "Sherry Wu",
-        href: "https://xuechundesign.github.io"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "JiyinYiyong",
-        href: "http://tiye.me/"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    }
-]
+    #    title: "乱序",
+    #    href: "http://mida.re/"
+    #},{
+    #    title: "Sherry Wu",
+    #    href: "https://xuechundesign.github.io"
+    #},{
+    #    title: "Luke 的自留地",
+    #    href: "http://hmqk1995.github.io"
+    #},{
+    #    title: "Ebn's Blog",
+    #    href: "http://ebnbin.com/"
+    #},{
+    #    title: "SmdCn's Blog",
+    #    href: "http://blog.smdcn.net"
+    #},{
+    #    title: "JiyinYiyong",
+    #    href: "http://tiye.me/"
+    #},{
+    #    title: "David's Game",
+    #    href: "https://www.ruoyaowu.com/"
+    #},{
+    #    title: "DHong Say",
+    #    href: "http://dhong.co"
+    #},{
+    #    title: "尹峰以为",
+    #    href: "http://ingf.github.io/"
+    #}
+#]
