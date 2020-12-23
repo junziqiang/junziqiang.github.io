@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     junziqiang
-zhihu_username:     junziqiang
+weibo_username:     君子强学而力行nwpu
+zhihu_username:     君子强
 github_username:    junziqiang
 twitter_username:   junziqiang
 #facebook_username:  huxpro
@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/junziqiang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
